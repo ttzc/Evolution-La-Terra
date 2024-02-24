@@ -1,8 +1,8 @@
 {
   "name": "Evolution La Terre",
-  "author": "mightzero \u0026\u0026 zaochen",
-  "version": "2.0",
-  "description": "注意：请按照要求自动更新，否则出现任何问题概不处理。",
+  "author": "mightzero \u0026 ttzc",
+  "version": "1.0",
+  "description": "",
   "fileApi": "https://ttzc.github.io/Evolution-La-Terra",
   "files": [
     {
@@ -944,6 +944,14 @@
     {
       "path": "config/xaeroworldmap.txt",
       "hash": "fa2a71ad4a2b794beea7c478d551b471ba7590a7"
+    },
+    {
+      "path": "fancymenu_data/last_world.fmdata",
+      "hash": "3ab4d18b214a8c56a42ced363a8e51e128d9ca6d"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "de29bee49cae68a67960fd03c5c4c75d9aa3b989"
     },
     {
       "path": "mods/.connector/!bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar",
